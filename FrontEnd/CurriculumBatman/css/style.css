@@ -1,0 +1,41 @@
+header{
+    background-color: #E6E6E6;
+}
+
+header div img{
+    width: 100px;
+}
+
+header article{
+    background-color: #C4C4C4;
+}
+
+h1{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: bold;
+    color: #005677;
+
+}
+
+h2{
+    background-color: #C4C4C4;
+    color:#005677;
+}
+#datosPersonal span{
+    font-style: italic;
+    font-weight: bold;
+}
+dt{
+    font-weight: bold;
+}
+footer{
+    color: white;
+    background-color: #005677;
+}
+
+
+
+
+
+
