@@ -6,7 +6,7 @@ saludar (); */
 
 //expresada (se usa más)
 
-const saludar = function{
+const saludar = function(){
     console.log("hola");
 }
-saludar () 
+saludar();

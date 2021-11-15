@@ -21,5 +21,21 @@ console.log(admiracion("yo")); */
 admiracion("yo");
  */
 
+/* function edadPerro (x){
+    return x*7;
+}
+console.log(edadPerro(2)) */
+
+/* function edadPerro (x){
+    let cuenta = x*7;
+    console.log(cuenta);
+}
+edadPerro(2); */
 
 
+/* function horaTrabajo(x){
+    let calculo = x/40;
+    console.log(calculo);
+}
+
+horaTrabajo(80000); */
